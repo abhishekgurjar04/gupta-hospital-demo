@@ -128,21 +128,6 @@ border-radius:20px;
 background:var(--line);
 box-shadow:0 24px 48px rgba(11,58,82,.18);
 }
-.hero-card{
-position:absolute;
-left:-24px;
-bottom:28px;
-display:flex;
-flex-direction:column;
-background:#fff;
-padding:14px 20px;
-border-radius:var(--radius);
-border-left:5px solid var(--alert);
-box-shadow:var(--shadow);
-max-width:260px;
-}
-.hero-card strong{color:var(--navy)}
-.hero-card span{font-size:14px;color:var(--muted);line-height:1.4}
 
 /* sections */
 section{padding:88px 8%}
